@@ -1,0 +1,5 @@
+B /home/lucas/.opam/4.06.0+32bit/lib/opam-file-format
+B _build/default/.main.eobjs
+FLG -w -40
+S .
+S /home/lucas/.opam/4.06.0+32bit/lib/opam-file-format
