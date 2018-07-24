@@ -3,6 +3,8 @@
 (executable 
     (   
         (name main)
+        (public_name ezport)
+        (package ezport)
         (libraries (
             opam-file-format
         ))
